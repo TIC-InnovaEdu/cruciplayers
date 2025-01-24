@@ -1,0 +1,13 @@
+# Predefined Crossword Puzzles
+
+# Puzzle 1
+Across: 1. A fruit (5 letters) | 2. A color (3 letters)
+Down: 1. A type of tree (3 letters) | 2. A large mammal (4 letters)
+
+# Puzzle 2
+Across: 1. A country (6 letters) | 2. A beverage (4 letters)
+Down: 1. A planet (5 letters) | 2. A type of dance (5 letters)
+
+# Puzzle 3
+Across: 1. A profession (7 letters) | 2. A type of music (4 letters)
+Down: 1. A sport (6 letters) | 2. A type of flower (5 letters)
